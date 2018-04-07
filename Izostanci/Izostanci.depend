@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1497784272 source:c:\users\alma\desktop\fit c++\izostanci1\main.cpp
+	<iostream>
+	<cstring>
+	<memory>
+	<new>
+	<functional>
+	<fstream>
+
