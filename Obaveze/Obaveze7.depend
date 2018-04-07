@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1499691747 source:c:\users\alma\desktop\fit c++\obaveze7\main.cpp
+	<iostream>
+	<cstring>
+	<new>
+	<memory>
+	<fstream>
+
