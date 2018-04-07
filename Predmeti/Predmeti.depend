@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1497797566 source:c:\users\alma\desktop\fit c++\predmeti10\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<new>
+	<memory>
+
